@@ -65,6 +65,7 @@ password-checker/
 ├── pom.xml                          # Maven configuration
 ├── .gitignore                       # DevOps hygiene
 └── README.md
+```
 
 ⚙️ Java Application Logic
 
